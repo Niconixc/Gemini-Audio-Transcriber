@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Audio Transcriber",
+  "description": "A powerful speech-to-text application using Gemini 2.5 Flash to transcribe audio recordings instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
